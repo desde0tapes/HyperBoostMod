@@ -6,8 +6,9 @@ How to Use?
 
 To Hyper Boost press Slide + Boost buttons at the same time (Hold)
 
-<img width="960" height="646" alt="Xbox_Controller - Cop2" src="https://github.com/user-attachments/assets/5228ec5e-fc06-4f9e-8a52-870b36a55dda" />
+<img width="480" height="323" alt="Xbox_Controller - Cop2" src="https://github.com/user-attachments/assets/c7533347-e294-4c32-8b20-520555bfbdf3" />
 
 To Hyper Jump press all three regular Trick Buttons at the same time (Hold)
 
-<img width="960" height="646" alt="Xbox_Controller - Copy" src="https://github.com/user-attachments/assets/502f7d17-4f36-48e5-b532-ca9c1748848d" />
+<img width="480" height="323" alt="Xbox_Controller - Copy" src="https://github.com/user-attachments/assets/e44fd582-ba61-41c3-851c-a0a066d53ad0" />
+
