@@ -64,7 +64,7 @@ Seconds playing the crouching charging animation.
 
 ### Charging Fall Blend Time x Charging Fall Speed
 
-Determines the way the Hyper Boost / Hyper Jump 's charging states act when in the air, by setting the blend time of your air speed and direction and the charging state and by setting the multiplier of the fall / uprise during the charging state.
+Determines the way the Hyper Boost / Hyper Jump 's charging states act when in the air, by setting the blend time of your air speed and direction of your charging state and by setting the multiplier of the gravity (fall / uprise) during the charging state.
 
 Besides the default average BRC charging fall, you can be totally frozen in air when charging (great if you hate falling down during the charging time), set it similar to HyperFunk's _drop down_ style or even rise up during charging.
 
