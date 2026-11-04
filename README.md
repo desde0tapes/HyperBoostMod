@@ -96,7 +96,7 @@ Quick Time Event 4 button combos to perform the Hyper move ! Fail the QTE and yo
 
 ### SwagSpawn Compatible !
 
-Hyper Boosting / Hyper Jump and Hyper Charging get their own SwagSpawn slots for extra custom effects !
+Hyper Boost / Hyper Jump and Hyper Charging get their own SwagSpawn slots for extra custom effects !
 
 
 
